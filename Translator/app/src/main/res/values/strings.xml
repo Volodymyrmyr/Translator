@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Перекладач</string>
+    <string name="title_text">Переклад технічних термінів</string>
+    <string name="input_text">Введіть текст : </string>
+    <string name="output_text">Переклад : </string>
+    <string name="button_translate_online">Переклад онлайн</string>
+    <string name="button_translate_offline">Переклад оффлайн</string>
+    <string name="english_one">Англійськa</string>
+    <string name="ukrainian_one">Українськa</string>
+    <string name="on_to">на</string>
+    <string name="with">З </string>
+    <string name="action_about">Про програму</string>
+    <string name="action_exit">Вихід</string>
+    <string name="btn_close">Назад</string>
+    <string name="text_for_about">Перекладач\nДана аплікаця розроблена по тестовому завданні.\n
+    Онлайн перекладач працює через API Yandex. Перекладає слова і фрази\nОффлайн перекладач перекладає тільки слова, які є у його словнику. Фрази не перекладає
+    \n \nРозробив - Мирош Володимир</string>
+</resources>
